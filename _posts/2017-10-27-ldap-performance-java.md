@@ -3,7 +3,7 @@ layout: post
 title:  Enterprise LDAP Data Synchronisation with OpenLDAP and Java Work-Stealing Threads , the 48 hours Job to 30 Minute Thing ! 
 categories: [Ldap , Java , Performance , Threads]
 ---
-`This is an old story (2017) and can't recollect  exactly what all i have done , but these are something i could recollect` 
+This is an old story (2017) and can't recollect  exactly what all i have done , but these are something i could recollect
 
 ![](/images/LDAPStack.svg)
 
