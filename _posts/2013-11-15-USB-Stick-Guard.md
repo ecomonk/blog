@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Empowering Digital Defence:  Revolutionary Journey of My USB Stick Guard (2012)
+title: Empowering Digital Defence Revolutionary Journey of My USB Stick Guard (2012)
 categories: [ AntiTrojan , Virus , Defence , Antivirus]
 ---
 
